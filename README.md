@@ -29,3 +29,6 @@ The discipline and persistence I’ve developed through swimming have a strong i
 - Compete at the highest level in swimming while maintaining academic growth
 
 Thank you for taking the time to explore my work.
+
+Quick Links:
+<a target="[_blank](https://yixuans.codewizardshq.com/e14_minecraft_10/game.html)">
