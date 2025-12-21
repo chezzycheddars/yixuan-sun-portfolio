@@ -10,4 +10,4 @@
 - WASD keys to move.
 - The circle in the middle of your screen is used to click, not your actual mouse cursor.
 
-Thank you for checking this out and playing! This project is by far my favorite and is the first project I created that has gotten me completely hooked into coding.
+Thank you for checking this out and playing! This project is by far my favorite and is the first project I created that has gotten me completely hooked on coding.
