@@ -36,8 +36,3 @@ Thank you for taking the time to explore my work.
   - View files on GitHub: [minecraft-aframe-game/](./minecraft-aframe-game/)
   - Play (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/
   - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/" target="_blank" rel="noopener">Play Minecraft A-Frame Game (opens in new tab)</a>
-- Simple Mail Site
-  - View files on GitHub: [simple-mail-site/](./simple-mail-site/)
-  - Launch (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/simple-mail-site/
-  - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/simple-mail-site/" target="_blank" rel="noopener">Open site (opens in new tab)</a>
-  
