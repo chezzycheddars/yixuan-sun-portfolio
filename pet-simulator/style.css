@@ -11,7 +11,6 @@ body {
   margin: 0;
   padding: 0;
   background: url("images/doodle_bg.png");
-  /* Lesson 9 - HW1 */
   font-family: "DM Sans", serif;
 }
 
@@ -23,7 +22,6 @@ header {
   align-items: center;
   font-size: 20px;
   color: var(--dark-blue);
-  /* Lesson 9 - HW1 */
   background-color: #ffffffbf;
   box-shadow: rgb(140 151 162 / 16%) 0px 20px 30px;
 }
@@ -194,3 +192,4 @@ select {
   height: auto;
   font-size: 24px;
 }
+
