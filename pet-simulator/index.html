@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pixel Pals</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <div id="logo">
+        <img src="images/logo.png" />
+      </div>
+      <div id="user"></div>
+    </header>
+    <main>
+      <form id="login">
+        <div>Welcome to<br />Pixel Pals!</div>
+        <input
+          type="text"
+          id="username"
+          name="username"
+          placeholder="Username"
+        />
+        <input
+          type="password"
+          id="password"
+          name="password"
+          placeholder="Password"
+        />
+        <input type="submit" id="login-btn" value="Login" />
+        <input type="submit" id="signup-btn" value="Sign Up" />
+      </form>
+      <div id="game">
+        <form id="controls">
+          <div>
+            <label for="pet-type">Type of Pet:</label>
+            <select id="pet-type" name="pet-type">
+              <option value="dog">Dog</option>
+              <option value="cat">Cat</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="background">Room:</label>
+            <select id="background" name="background">
+              <option value="livingroom">Living Room</option>
+              <option value="bedroom">Bedroom</option>
+            </select>
+          </div>
+          <input type="button" id="feed" value="Feed" />
+          <input type="button" id="walk" value="Walk" />
+          
+          <div id="pet-stats">
+           <div id="health">
+            <img src="images/health.png" />
+            <div>0</div>
+          </div>
+
+          <div id="happiness">
+            <img src="images/heart.png" />
+            <div>0</div>
+          </div>
+          <div id="hunger">
+            <img src="images/food.png" />
+            <div>0</div>
+          </div>
+          </div>
+          
+        </form>
+        <img src="images/dog-standing.png" id="pet" />
+      </div>
+    </main>
+    <footer>
+      Created by yours truly <br /><a href="feedback.html"
+        >Give me your feedback</a
+      >
+    </footer>
+    <script src="login.js"></script>
+    <script src="game.js"></script>
+  </body>
+</html>
