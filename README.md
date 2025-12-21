@@ -31,7 +31,7 @@ The discipline and persistence I’ve developed through swimming have a strong i
 Thank you for taking the time to explore my work.
 
 ## My Projects
-###(From codewizardshq)
+### (From codewizardshq)
 
 - Minecraft A-Frame Game
   - View files on GitHub: [minecraft-aframe-game/](./minecraft-aframe-game/)
