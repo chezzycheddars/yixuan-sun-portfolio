@@ -30,5 +30,9 @@ The discipline and persistence I’ve developed through swimming have a strong i
 
 Thank you for taking the time to explore my work.
 
-Quick Links:
-<a target="[_blank](https://yixuans.codewizardshq.com/e14_minecraft_10/game.html)">minecraft-aframe-game</a>
+## Projects
+
+- Minecraft A-Frame Game
+  - View files on GitHub: [minecraft-aframe-game/](./minecraft-aframe-game/)
+  - Play (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/
+  - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/" target="_blank" rel="noopener">Play Minecraft A-Frame Game (opens in new tab)</a>
