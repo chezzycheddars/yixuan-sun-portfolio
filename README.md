@@ -31,4 +31,4 @@ The discipline and persistence I’ve developed through swimming have a strong i
 Thank you for taking the time to explore my work.
 
 Quick Links:
-<a target="[_blank](https://yixuans.codewizardshq.com/e14_minecraft_10/game.html)">
+<a target="[_blank](https://yixuans.codewizardshq.com/e14_minecraft_10/game.html)">minecraft-aframe-game</a>
