@@ -9,3 +9,5 @@
 - You lose health as time passes.
 - WASD keys to move.
 - The circle in the middle of your screen is used to click, not your actual mouse cursor.
+
+Thank you for checking this out and playing!
