@@ -14,14 +14,13 @@ This repository serves as a portfolio of my projects and experiences as I transi
 
 ### Building a Minecraft-Inspired Game
 Scratch was what first sparked my interest in coding. Later, while taking coding courses through CodeWizardsHQ, I worked on a Minecraft-inspired game as one of my first major projects.
-
 This experience was meaningful because it was the first time I realized that code is a creative tool. I learned that programming isn’t just about syntax—it’s about turning ideas into something real. That realization motivated me to continue learning and experimenting with code.
 
 ### Watching the Olympic Swimming Trials
 Watching the Olympic swimming trials was what inspired me to start swimming competitively. 
 I previously played soccer, but over time, I realized it wasn’t the right fit for me. With encouragement from my mom, I tried swimming and eventually came to love it.
-This experience taught me the importance of exploring new interests and committing fully once I find something meaningful. 
-The discipline and persistence I’ve developed through swimming strongly influence how I approach learning computer science.
+This experience taught me the importance of exploring new interests and committing fully to something meaningful. 
+The discipline and persistence I’ve developed through swimming have a strong influence on how I approach learning computer science.
 
 ## Goals
 - Build meaningful software that can be useful in everyday life
