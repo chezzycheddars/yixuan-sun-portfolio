@@ -35,7 +35,7 @@ Thank you for taking the time to explore my work.
 - Minecraft A-Frame Game
   - View files on GitHub: [minecraft-aframe-game/](./minecraft-aframe-game/)
   - Play (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/
-  - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/" target="_blank" rel="noopener">(opens in new tab)</a>
+  - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/" target="_blank" rel="noopener">Minecraft A-Frame Game</a>
 - Zen Survey
   - View files on GitHub: [zen-survery/](./zen-survery/)
   - Launch (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survey/
