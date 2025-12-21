@@ -31,7 +31,7 @@ var colorTool = addPillar({
       height: 50,
       color: 'brown',
       opacity: 0,
-      clickSound: 'villager.mp3'
+      clickSound: 'sounds/villager.mp3'
     });
 
     var heading = addText({
@@ -49,18 +49,18 @@ var colorTool = addPillar({
     });
 
     var steve = addModel({
-      file: 'model.gltf',
+      file: 'models/model.gltf',
       position: pos
     });
 
     var steveSound = addSound({
-      file: 'minecraft.mp3',
+      file: 'sounds/minecraft.mp3',
       position: pos,
       loop: true
     });
 
     var burger = addModel({
-      file: 'Hamburger.gltf',
+      file: 'models/Hamburger.gltf',
       position: randomPosition(20),
       scale: 0.1
     });
@@ -74,7 +74,7 @@ var colorTool = addPillar({
     });
 
     var shovelTool = addImage({
-      file:'shovel.png',
+      file:'images/shovel.png',
       position: '2 5 -3'
     });
 
@@ -121,10 +121,10 @@ var colorTool = addPillar({
             size: 0.5,
             color: blockColor,
             position: pos,
-            clickSound: 'villager.mp3',
+            clickSound: 'sounds/villager.mp3',
             snap: true,
             save: true,
-            file: 'silver.jpg'
+            file: 'images/silver.jpg'
           });
           click(box, checkTool);
         } else {
@@ -266,3 +266,4 @@ var colorTool = addPillar({
   
    click(colorTool, changeColor);
 </script></body></html>
+
