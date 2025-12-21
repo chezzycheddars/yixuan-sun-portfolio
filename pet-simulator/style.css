@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&family=DM+Sans:wght@400;500;600&display=swap");
+
+:root {
+  --white: #fff;
+  --dark-blue: #0c2d48;
+  --midnight-blue: #145da0;
+  --baby-blue: #b1d4e0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url("images/doodle_bg.png");
+  /* Lesson 9 - HW1 */
+  font-family: "DM Sans", serif;
+}
+
+header {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px;
+  color: var(--dark-blue);
+  /* Lesson 9 - HW1 */
+  background-color: #ffffffbf;
+  box-shadow: rgb(140 151 162 / 16%) 0px 20px 30px;
+}
+
+#logo > img {
+    height: 5vh;
+    width: auto;
+    padding-left: 10px;
+}
+
+#login {
+    background-color: var(--midnight-blue);
+    padding: 36px;
+    width: 400px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    border-radius: 15px;
+    box-shadow: rgb(38 57 77 / 23%) 0px 20px 30px;
+}
+
+#login > input {
+    height: 55px;
+    width: 100%;
+    font-size: 20px;
+    border-radius: 25px;
+    border: none;
+}
+
+#login > input[type=submit] {
+    background: var(--baby-blue);
+    padding: 15px;
+    font-size: 20px;
+    width: 100%;
+    cursor: pointer;
+}
+
+#login > div  {
+    font-size: 36px;
+    padding-bottom: 15px;
+    color: var(--white)
+}
+
+main {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: var(--dark-blue);
+    color: var(--white);
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#login > input:hover {
+    background: var(--baby-blue);
+    transition: .5s;
+}
+
+footer > a {
+    text-decoration: underline;
+    color: var(--white);
+    padding-left: 5px;
+}
+
+#user {
+  padding-right: 10px;
+}
+
+#thank-you {
+  padding: 15px;
+  background-color: var(--midnight-blue);
+  color: var(--white);
+  border-radius: 15px;
+}
+
+#game {
+  background: url("images/livingroom.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 800px;
+  font-size: 20px;
+  z-index: 2;
+  position: relative;
+  overflow: hidden;
+  border: solid 14px #0c2d48;
+  border-radius: 36px;
+  font-family: "Comic Neue";
+}
+
+#pet {
+  height: 200px;
+  width: auto;
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+}
+
+#controls {
+  background-color: #0c2d48;
+  width: 200px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+  gap: 24px;
+  padding: 24px;
+  padding-left: 12px;
+  position: absolute;
+  left: 0px;
+  z-index: 3;
+}
+
+#controls > div {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+select {
+  background-color: #fff;
+  border-radius: 6px;
+  font-size: 18px;
+  padding: 16px;
+  color: #312316;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+#controls > input[type=button] {
+  border: solid 3px #fff;
+  font-weight: 800;
+  font-size: 24px;
+  background-color: #ffc237;
+  color: #9d6b20;
+  padding: 15px;
+  width: 100%;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+#pet-stats {
+  gap: 5px;
+}
+
+#pet-stats > div {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+#pet-stats > div > * {
+  width: 20%;
+  height: auto;
+  font-size: 24px;
+}
