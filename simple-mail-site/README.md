@@ -1,3 +1,3 @@
-# simple message site
+# Simple message site
 
 - 
