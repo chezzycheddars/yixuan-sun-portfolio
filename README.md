@@ -39,4 +39,4 @@ Thank you for taking the time to explore my work.
 - Zen Survey
   - View files on GitHub: [zen-survery/](./zen-survery/)
   - Launch (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survey/
-  - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survery/" target="_blank" rel="noopener">Zen Survery</a>
+  - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survery/" target="_blank" rel="noopener">Zen Survey</a>
