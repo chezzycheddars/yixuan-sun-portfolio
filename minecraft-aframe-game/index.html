@@ -1,1 +1,375 @@
-index.html
+<html><head><script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+crossorigin="anonymous"></script><script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script><script src="https://unpkg.com/aframe-environment-component@1.1.0/dist/aframe-environment-component.min.js"></script><script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.0/dist/aframe-extras.min.js"></script>
+<script src="https://rawgit.com/protyze/aframe-asset-on-demand-component/master/dist/aframe-asset-on-demand-component.min.js"></script><script src="https://rawgit.com/Utopiah/aframe-persist-component/master/aframe-persist-component.js"></script>
+</head><body><div class="canvas"></div><script src="//projects.codewizardshq.com/wizardlib/vr.js"></script><script>
+
+
+    start();
+    var totalBlocks = loadNumber('block-count', 10);
+    var pos = randomPosition();
+    var health = loadNumber('health-count', 10);
+    var selectedTool = loadText('tool', 'block');
+    var blockColor = randomColor();
+var colorTool = addPillar({
+ size: 0.2,
+ position: '5 0 -10',
+ color: blockColor
+});
+  theme('forest');
+
+    /* 
+      Element Name: blockText
+      It appears when we open the game.
+      It tells the number of remaining blocks.
+    */
+    var blockText = addText({
+      text: "Blocks:" + totalBlocks,
+      fixed: true,
+      color: 'black',
+      position: '-1.4 0.7 -1',
+      size: 1
+    });
+
+    /* 
+      Element Name: floor
+      It appears when we open the game.
+      It gives a ground where we can add our blocks.
+    */
+    var floor = addFloor({
+      width:50,
+      height: 50,
+      color: 'brown',
+      opacity: 0,
+      clickSound: 'villager.mp3'
+    });
+
+    /* 
+      Element Name: heading
+      It appears when we open the game and disappears after a second.
+      It shows the heading of our game
+    */
+    var heading = addText({
+      text: "Wizardcraft",
+      fixed: true,
+      color: 'firebrick',
+      position: '-0.2 0.7 -1',
+      size: 2
+    });
+
+    /* 
+      Element Name: sphere
+      It appears when we open the game
+      Clicking on it calls the changeTheme function.
+    */
+    var sphere = addSphere({
+      size: 0.5,
+      position: '5 0 -10',
+      color: 'red'
+    });
+
+    /* 
+      Element Name: steve
+      It appears when we run out of blocks
+      Clicking on it calls the getBlocks function.
+    */
+    var steve = addModel({
+      file: 'model.gltf',
+      position: pos
+    });
+
+    /* 
+      Element Name: steveSound
+      It adds the sound from the direction of steve.
+      The sound plays when steve appears, pauses when steve disappears
+    */
+    var steveSound = addSound({
+      file: 'minecraft.mp3',
+      position: pos,
+      loop: true
+    });
+
+    /* 
+      Element Name: burger
+      It appears after every 30 seconds
+      Clicking on it will increase the health by 1
+    */
+    var burger = addModel({
+      file: 'Hamburger.gltf',
+      position: randomPosition(20),
+      scale: 0.1
+    });
+
+    /* 
+      Element Name: healthText
+      It appears when we open the game.
+      It tells the remaining health of our player.
+    */
+    var healthText = addText({
+      text: "Health:" + health,
+      fixed: true,
+      color: 'black',
+      position: '1.2 0.7 -1',
+      size: 1
+    });
+
+    /* 
+      Element Name: shovelTool
+      It appears when we open the game
+      Clicking on it changes the selected tool to shovel;
+      shovel tool is used to delete existing blocks
+    */
+    var shovelTool = addImage({
+      file:'shovel.png',
+      position: '2 5 -3'
+    });
+
+    /* 
+      Element Name: blockTool
+      It appears when we open the game
+      Clicking on it changes the selected tool to block;
+      this tool is used to add new blocks
+    */
+    var blockTool = addBox({
+      color: 'red',
+      size: 0.5,
+      position: '-2 5 -3'
+    });
+
+    /* 
+      Element Name: rotateTool
+      It appears when we open the game
+      Clicking on it changes the selected tool to rotate;
+      this tool is used to add rotation animation to existing blocks.
+    */
+    var rotateTool = addBox({
+      color: 'blue',
+      size: 0.5,
+      position: '-4 5 -3'
+    })
+    rotate(rotateTool);
+    
+    hide(steve);
+
+    glide({
+      element: heading,
+      from: '-0.2 0.7 -1',
+      to: '-0.2 1 -1',
+      time: 5
+    });
+
+    if (selectedTool == 'block') {
+      setCursor(blockTool);
+    } else if(selectedTool == 'shovel') {
+      setCursor(shovelTool);
+    } else if(selectedTool == 'rotate') {
+      setCursor(rotateTool);
+    }
+
+    /* 
+      Function Name: block
+      It is called when we click on floor
+      It adds boxes where we click.
+    */
+    function block(info) {
+      if (totalBlocks > 0) {
+        hide(steve);
+        if (health > 0) {
+          totalBlocks = totalBlocks - 1;
+          updateText(blockText, "Blocks:" + totalBlocks);
+          save('block-count', totalBlocks);
+          var pos = info.point;
+          var myColor = randomColor();
+          var box = addBox({
+            size: 0.5,
+            color: blockColor,
+            position: pos,
+            clickSound: 'villager.mp3',
+            snap: true,
+            save: true,
+            file: 'silver.jpg'
+          });
+          click(box, checkTool);
+        } else {
+          updateText(blockText, "Regain your health to add blocks");
+        }
+      } else {
+        show(steve);
+        play(steveSound);
+      }
+    }
+
+    /* 
+      Function Name: checkTool
+      It is called when we click on floor or the blocks
+      It checks which tool is selected and runs the action accordingly
+    */
+    function checkTool(info){
+      if (selectedTool == 'block') {
+        block(info);
+      } else if (selectedTool == 'shovel') {
+        deleteBlock(info);
+      } else if (selectedTool == 'rotate') {
+        rotateBlock(info);
+      }
+    }
+    /* 
+      Function Name: deleteBlock
+      It is called when selected tool is shovel, and when we click on block
+      It deletes the clicked block.
+    */
+    function deleteBlock(info) {
+      if(info.name == 'box') {
+        vanish(info.element);
+        totalBlocks = totalBlocks + 1;
+        save('block-count', totalBlocks);
+        updateText(blockText, "Blocks:" + totalBlocks); 
+      }
+    }
+    /* 
+      Function Name: rotateBlock
+      It is called when selected tool is rotate, and when we click on block
+      It adds the rotation animation to clicked block.
+    */
+    function rotateBlock(info) {
+      if (info.name == 'box') {
+        rotate(info.element);
+      }
+    }
+    /* 
+      Function Name: getBlocks
+      It is called when we click on steve
+      It increases the number of boxes by 10
+    */
+    function getBlocks(info) {
+      totalBlocks = totalBlocks + 10;
+      save('block-count', totalBlocks);
+      var randomPos = randomPosition(60);
+      changePosition(steve, randomPos);
+      changePosition(steveSound, randomPos);
+      hide(steve);
+      pause(steveSound);
+      updateText(blockText, "Blocks:" + totalBlocks);
+    }
+
+    /* 
+      Function Name: changeTheme
+      It is called when we click on red sphere on floor
+      It changes the theme to volcano
+    */
+    function changeTheme() {
+      theme('volcano');
+    }
+
+    /* 
+      Function Name: decreaseHealth
+      It is called repeatedly after every minute.
+      It decreases the value of health variable by 1.
+    */
+    function decreaseHealth() {
+      if(health > 0) {
+        health = health - 1;
+        save('health-count', health);
+        updateText(healthText, "Health: " + health);
+      }
+    }
+
+    /* 
+      Function Name: increaseHealth
+      It is called when we click on the burger
+      It increases the value of health variable by 1.
+    */
+    function increaseHealth() {
+      hideFood();
+      health = health + 1;
+      save('health-count', health);
+      updateText(healthText, "Health: " + health);
+    }
+
+    /* 
+      Function Name: hideFood
+      It is called repeatedly after every 10 seconds.
+      It hides the burger and move it to a random position.
+    */
+    function hideFood() {
+      hide(burger);
+      var burgerPos = randomPosition(10);
+      changePosition(burger, burgerPos);
+    }
+    /* 
+      Function Name: showFood
+      It is called repeatedly after every 30 seconds.
+      It shows the burger
+    */
+    function showFood() {
+      show(burger);
+    }
+    /* 
+      Function Name: selectShovel
+      It is called when we click on shovelTool
+      It changes the selected tool to shovel.
+    */
+    function selectShovel(info) {
+      selectedTool = 'shovel';
+      save('tool', selectedTool);
+      setCursor(info.element);
+    }
+    /* 
+      Function Name: selectBlock
+      It is called when we click on blockTool
+      It changes the selected tool to block.
+    */
+    function selectBlock(info) {
+      selectedTool = 'block';
+      save('tool', selectedTool);
+      setCursor(info.element);
+    }
+    /* 
+      Function Name: selectRotate
+      It is called when we click on rotateTool
+      It changes the selected tool to rotate.
+    */
+    function selectRotate(info) {
+      selectedTool = 'rotate';
+      save('tool', selectedTool);
+      setCursor(info.element);
+    }
+
+    click(floor, checkTool);
+    click(sphere, changeTheme);
+    click(steve, getBlocks);
+    click(burger, increaseHealth);
+    click(shovelTool, selectShovel);
+    click(blockTool, selectBlock);
+    click(rotateTool, selectRotate);
+
+    run({
+      action: hideFood, 
+      seconds: 10,
+      repeat: 'forever'
+    });
+
+    run({
+      action: showFood,
+      seconds: 30,
+      repeat: 'forever'
+    });
+
+    run({
+      action: decreaseHealth,
+      minutes: 1,
+      repeat: 'forever'
+    });
+
+    showBlocks();
+  
+  function changeColor () {
+  blockColor = randomColor();
+  updateColor(colorTool, blockColor);  
+ }  
+  var colorText = addText({
+ text: 'Change color here',
+ position: '3.1 6 -10',
+ size: 10
+});   
+   click(colorTool, changeColor);
+</script></body></html>
