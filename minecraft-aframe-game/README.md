@@ -1,13 +1,27 @@
 # Minecraft A-Frame Game
 
-- Clicking the Red Block switches your mode to place blocks
-- Clicking the Spinning Blue Block switches your mode to spin blocks. Whenever you click on a block with this mode on, it makes the block spin.
-- Clicking the Shovel switches your mode to delete, letting you delete already placed blocks and send them back into your inventory.
-- Click on the Pole to change the color of your next placed blocks.
-- Sometimes a Hamburger randomly spawns; touch it to heal.
-- Steve will sometimes spawn, and he will play music when he is present. 
-- You lose health as time passes.
-- WASD keys to move.
-- The circle in the middle of your screen is used to click, not your actual mouse cursor.
+## This is an interactive, Minecraft-inspired 3D game built using A-Frame and JavaScript.
 
-Thank you for checking this out and playing! This project is by far my favorite and is the first project I created that has gotten me completely hooked on coding.
+### Controls & Gameplay
+
+- Red Block: Switches to block placement mode
+
+- Spinning Blue Block: Switches to rotation mode; clicking a block makes it spin
+
+- Shovel: Switches to delete mode, allowing you to remove placed blocks and return them to your inventory
+
+- Pole: Changes the color of newly placed blocks
+
+- Hamburger: Randomly spawns; touch it to regain health
+
+- Steve: Occasionally appears and plays music while present
+
+- Health: Gradually decreases over time
+
+### Movement & Interaction
+
+- WASD: Move around the world
+
+- Center circle: Used to interact with objects (not the mouse cursor)
+
+Thank you for checking out and playing this project. This is by far my favorite project I’ve created and the first one that truly hooked me on coding. Building it helped me realize how creative and immersive programming can be.
