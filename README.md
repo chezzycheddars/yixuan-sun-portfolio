@@ -45,3 +45,11 @@ Thank you for taking the time to explore my work.
   - View files on GitHub: [pet-simulator/](./pet-simulator/)
   - Launch (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/
   - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/" target="_blank" rel="noopener">Pixel Pals!</a>
+
+## Swimming
+Learn about my competitive swimming journey:  
+[View Swimming Portfolio](swimming/)
+
+## Curiosity 
+See the hobbies I explore:  
+[View Curiosity Portfolio](curiosity/)
