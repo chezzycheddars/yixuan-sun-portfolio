@@ -9,8 +9,6 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 - **50 Free:** 26.27 (SCY)  at the 2025 NE CRIM FROSTY FRENZY meet
 - **Near Age Group Qualifier:** Missed Age Group Championship cut in 200 Fly by 0.01 seconds, a lesson in precision, consistency, and mental resilience  
 
-*(Add additional events/times as your SwimCloud or SwimStandards results update.)*
-
 ## Skills & Traits Developed Through Swimming
 - Goal setting & structured practice  
 - Handling pressure and competition  
@@ -23,3 +21,4 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
