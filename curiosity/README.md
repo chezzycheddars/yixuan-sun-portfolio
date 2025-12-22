@@ -6,7 +6,7 @@ I am deeply curious and love exploring a wide variety of activities. Trying new 
 ## Past & Ongoing Activities
 
 ### Ice Skating
-- Began at age 11 in California
+- Began in California
 - Learned balance, coordination, and patience
 
 ### Taekwondo
@@ -14,14 +14,14 @@ I am deeply curious and love exploring a wide variety of activities. Trying new 
 - Developed discipline, focus, and goal-setting
 
 ### Dance
-- Started learning club, rave, and underground styles at age 12
-- Currently self-teaching and practicing regularly
+- Started learning club, rave, and underground styles at age 12  
+- Currently self-teaching and practicing regularly  
 - Learned Hopak dance independently from age 11  
-- Dance teaches rhythm, creativity, and persistence
+- Dance teaches rhythm, creativity, persistence, and self-expression
 
 ### Animation & Editing
-- Began exploring animation at age 12, still self-teaching  
-- Create digital animations and edits using tools like CapCut and YouTube editing software  
+- Began exploring animation and editing at age 13, still self-teaching  
+- Created short animated sequences and practiced timing, transitions, and visual storytelling using CapCut and YouTube editing tools  
 - Enhances creativity, storytelling, and technical skills
 
 ## Skills & Traits Developed
@@ -29,7 +29,8 @@ I am deeply curious and love exploring a wide variety of activities. Trying new 
 - Adaptability across different disciplines  
 - Creativity and problem-solving  
 - Perseverance in mastering new skills  
+- Collaboration and teamwork (when working with friends on projects)
 
 ## Reflection
-Exploring diverse activities has helped me build a **broad skill set and an inventive mindset**. Whether it’s dance, animation, or coding, I enjoy experimenting, learning independently, and finding connections between my interests.  
+Exploring diverse activities has helped me build a **broad skill set and an inventive mindset**. Whether it’s dance, animation, or coding, I enjoy experimenting, learning independently, and finding connections between my interests.
 
