@@ -40,6 +40,7 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
 | **Languages** | `JavaScript` `Python` `HTML/CSS` `Lua` `Luau` |
 | **Tools** | `A-Frame` `Scratch` `GitHub` `VS Code` |
 | **Professional Track** | `High School CS Core Track` — `Completed 85%+ (Backend, Databases, APIs, Flask)` <br> ![Progress](https://geps.dev/progress/85) |
+| **Academic Core** | `Stanford: Introduction to Mathematical Thinking` — `Completed 100%` <br> ![Progress](https://geps.dev/progress/100) |
 | **Soft Skills** | ⭐ `Narrative Writing` `Logical Thinking` `Goal Setting` |
 
 ---
