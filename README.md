@@ -15,13 +15,13 @@ This portfolio showcases my journey from foundational coding to creating immersi
 
 ---
 
-### 🛠 Technical Skills 🏆
+## 🛠 Technical Skills 🏆
+
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | JavaScript, Python, HTML/CSS, Lua, Luau |
-| **Tools** | A-Frame, Scratch, GitHub, VS Code |
+| **Languages** | `JavaScript` `Python` `HTML/CSS` `Lua` `Luau` |
+| **Tools** | `A-Frame` `Scratch` `GitHub` `VS Code` |
 | **Soft Skills** | ⭐ `Narrative Writing` `Logical Thinking` `Goal Setting` |
-
 ---
 ## Significant Experiences
 
