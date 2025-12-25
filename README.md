@@ -9,7 +9,7 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
 
 * 💻 **[Computer Science](#my-projects):** (JavaScript, Python, Lua) — Creating immersive 3D worlds.
 <details>
-    <summary><b>🎓 Click to view High School CS Academic Track details</b></summary>
+      <summary><b>🎓 Click to view High School CS Academic Track details</b></summary>
     <ul>
       <li><b>Program:</b> Currently mastering the <a href="https://parents.codewizardshq.com/courses?tab=HIGH">High School Core Track</a> at CodeWizardsHQ.</li>
       <li><b>Mastery:</b> Advanced Backend Logic, Database Management, and API Integration.</li>
