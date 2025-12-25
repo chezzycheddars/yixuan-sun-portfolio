@@ -60,10 +60,11 @@ This experience taught me the importance of exploring new interests and committi
 The discipline and persistence I’ve developed through swimming have a strong influence on how I approach learning computer science.
 
 ## Goals
-- Build meaningful software that can be useful in everyday life
-- Continue developing my computer science skills through challenging projects
-- Learn additional programming languages to expand my creative and technical abilities
-- Compete at the highest level in swimming while maintaining academic growth
+
+- **Build innovative software solutions** that bridge the gap between complex logic and everyday utility.
+- **Deepen expertise in competitive STEM research**, with a focused aim on qualifying for elite programs such as **MIT PRIMES** to explore advanced mathematical theories.
+- **Master additional programming paradigms**, expanding from creative 3D environments to high-performance algorithmic development.
+- **Achieve excellence in competitive swimming** by reaching the New England Championships while maintaining a rigorous and balanced academic growth.
 
 Thank you for taking the time to explore my work.
 
