@@ -6,11 +6,10 @@
 
 ### 👤 About Me
 Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
-* **Computer Science:** Exploring the intersection of logic and creativity through software development.
-* **Advanced Mathematics:** Solving complex logical problems and mathematical puzzles.
-* **Competitive Swimming:** Building discipline and perseverance in and out of the pool.
-* **Reading & Narrative Writing:** Crafting stories and articulating ideas through creative prose.
-
+* 💻 **[Computer Science](#-my-projects):** Creating immersive 3D worlds like [Minecraft A-Frame](https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/) and interactive [Pixel Pals](https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/).
+* 📐 **[Advanced Mathematics](#):** Applied logical problem-solving (View my [Achievement Certificate](#)). 
+* 🏊 **[Competitive Swimming](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/):** National-level athlete with [Official Rankings](#) and [Training Highlights](#).
+* ✍️ **[Reading & Narrative Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Crafting stories through logic and prose (Explore my [Writing Works](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/)).
 This portfolio showcases my journey from foundational coding to creating immersive 3D environments.
 
 ---
