@@ -1,15 +1,27 @@
-# My Portfolio
+# 🚀 Yixuan Sun | STEM Innovator & Athlete
 
-Hi! My name is Yixuan Sun. I am a STEM enthusiast with strong interests in computer science, mathematics, swimming, and narrative writing. 
-This repository serves as a portfolio of my projects and experiences as I transition into more advanced, college-level coding.
+> **"Turning logic into reality through code, and building discipline through every lap in the pool."**
 
-## Skills
-- Programming: Python, JavaScript, HTML, CSS, Lua, Luau
-- Problem-solving and logical thinking
-- Mathematics
-- Narrative writing
-- Competitive swimming (discipline, goal-setting, perseverance)
+---
 
+### 👤 About Me
+Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
+* **Computer Science** (JavaScript, Python, Lua)
+* **Advanced Mathematics** & Logical Problem-solving
+* **Competitive Swimming** (Discipline & Perseverance)
+
+This portfolio showcases my journey from foundational coding to creating immersive 3D environments.
+
+---
+
+### 🛠 Technical Skills
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | JavaScript, Python, HTML/CSS, Lua, Luau |
+| **Tools** | A-Frame, Scratch, GitHub, VS Code |
+| **Soft Skills** | Narrative Writing, Logical Thinking, Goal Setting |
+
+---
 ## Significant Experiences
 
 ### Building a Minecraft-Inspired Game
