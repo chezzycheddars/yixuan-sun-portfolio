@@ -38,15 +38,15 @@ Thank you for taking the time to explore my work.
 ### (From codewizardshq)
 
 - Minecraft A-Frame Game
-  - View files on GitHub: [minecraft-aframe-game/](./minecraft-aframe-game/)
+  - View files on GitHub: [Click to view source code](https://github.com/chezzycheddars/yixuan-sun-portfolio/tree/main/minecraft-aframe-game)
   - Play (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/
   - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/" target="_blank" rel="noopener">Minecraft A-Frame Game</a>
 - Zen Survey
-  - View files on GitHub: [zen-survey/](./zen-survey/)
+  - View files on GitHub: [Click to view source code](https://github.com/chezzycheddars/yixuan-sun-portfolio/tree/main/zen-survey)
   - Launch (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survey/
   - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survey/" target="_blank" rel="noopener">Zen Survey</a>
 - Pixel Pals! 
-  - View files on GitHub: [pet-simulator/](./pet-simulator/)
+  - View files on GitHub:[Click to view source code](https://github.com/chezzycheddars/yixuan-sun-portfolio/tree/main/pet-simulator)
   - Launch (GitHub Pages): https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/
   - Open in new tab: <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/" target="_blank" rel="noopener">Pixel Pals!</a>
 
