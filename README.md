@@ -17,7 +17,15 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
     </ul>
   </details>
 
-* 📐 **[Advanced Mathematics](#):** & Logical Problem-solving (View my [Achievement Certificate](#)).
+* 📐 **[Advanced Mathematics](#):** & Logical Problem-solving — Completed **[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)** by Stanford University.
+  <details>
+    <summary><b>🎓 Click to view Mastery & Core Competencies.</b></summary>
+    <ul>
+      <li><b>Status:</b> `Course Completed 100%` — Pending official certificate issuance.</li>
+      <li><b>Core Skills:</b> Advanced Symbolic Logic, Number Theory, and Mathematical Proofs.</li>
+      <li><b>Outcome:</b> Mastered the analytical thinking patterns required for high-level algorithms and STEM research.</li>
+    </ul>
+  </details>
 * 🏊 **[Competitive Swimming](#):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](#) and [Meet Highlights](#).
 * ✍️ **[Reading & Narrative Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Exploring complex stories and articulating ideas through creative prose.
 
