@@ -1,5 +1,5 @@
 # 🚀 Yixuan Sun | STEM Innovator & Athlete
-
+![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Innovation%20&%20Discipline&fontSize=70)
 > **"Turning logic into reality through code, and building discipline through every lap in the pool."**
 
 ---
