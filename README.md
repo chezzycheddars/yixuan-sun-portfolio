@@ -1,5 +1,5 @@
 # 🚀 Yixuan Sun | STEM Innovator & Athlete
-![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Innovation%20&%20Discipline&fontSize=70)
+![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Innovation&fontSize=70&fontColor=FFD700)
 > **"Turning logic into reality through code, and building discipline through every lap in the pool."**
 
 ---
@@ -15,12 +15,12 @@ This portfolio showcases my journey from foundational coding to creating immersi
 
 ---
 
-### 🛠 Technical Skills
+### 🛠 Technical Skills 🏆
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | JavaScript, Python, HTML/CSS, Lua, Luau |
 | **Tools** | A-Frame, Scratch, GitHub, VS Code |
-| **Soft Skills** | Narrative Writing, Logical Thinking, Goal Setting |
+| **Soft Skills** | ⭐ `Narrative Writing` `Logical Thinking` `Goal Setting` |
 
 ---
 ## Significant Experiences
