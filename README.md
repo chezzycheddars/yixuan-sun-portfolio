@@ -20,8 +20,8 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
 * 📐 **[Advanced Mathematics](#):** & Logical Problem-solving (View my [Achievement Certificate](#)).
 * 🏊 **[Competitive Swimming](#):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](#) and [Meet Highlights](#).
 * ✍️ **[Reading & Narrative Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Exploring complex stories and articulating ideas through creative prose.
-This portfolio showcases my journey from foundational coding to creating immersive 3D environments.
 
+*This portfolio showcases my journey from foundational coding to creating immersive 3D environments.*
 ---
 
 ## 🛠 Technical Skills 🏆
