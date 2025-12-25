@@ -7,7 +7,16 @@
 ### 👤 About Me
 Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
 
-* 💻 **[Computer Science](#my-projects):** (JavaScript, Python, Lua) — Creating immersive 3D worlds like [Minecraft A-Frame](https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/), [Pixel Pals](https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/), and [Zen Survey](https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survey/).
+* 💻 **[Computer Science](#my-projects):** (JavaScript, Python, Lua) — Creating immersive 3D worlds.
+<details>
+    <summary><b>🎓 Click to view High School CS Academic Track details</b></summary>
+    <ul>
+      <li><b>Program:</b> Currently mastering the <a href="https://parents.codewizardshq.com/courses?tab=HIGH">High School Core Track</a> at CodeWizardsHQ.</li>
+      <li><b>Mastery:</b> Advanced Backend Logic, Database Management, and API Integration.</li>
+      <li><b>Professional Framework:</b> Building web applications using <b>Flask</b> (Industry-standard Python framework).</li>
+    </ul>
+  </details>
+
 * 📐 **[Advanced Mathematics](#):** & Logical Problem-solving (View my [Achievement Certificate](#)).
 * 🏊 **[Competitive Swimming](#):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](#) and [Meet Highlights](#).
 * ✍️ **[Reading & Narrative Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Exploring complex stories and articulating ideas through creative prose.
@@ -21,6 +30,7 @@ This portfolio showcases my journey from foundational coding to creating immersi
 | :--- | :--- |
 | **Languages** | `JavaScript` `Python` `HTML/CSS` `Lua` `Luau` |
 | **Tools** | `A-Frame` `Scratch` `GitHub` `VS Code` |
+| **Professional Track** | **High School CS Core Track (Wizard Level 2: Backend, Databases, APIs, Flask)** |
 | **Soft Skills** | ⭐ `Narrative Writing` `Logical Thinking` `Goal Setting` |
 
 ---
