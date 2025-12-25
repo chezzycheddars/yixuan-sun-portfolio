@@ -9,6 +9,7 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
 * **Computer Science** (JavaScript, Python, Lua)
 * **Advanced Mathematics** & Logical Problem-solving
 * **Competitive Swimming** (Discipline & Perseverance)
+* **Reading & Narrative Writing:** Exploring complex stories and articulating ideas through creative prose.
 
 This portfolio showcases my journey from foundational coding to creating immersive 3D environments.
 
