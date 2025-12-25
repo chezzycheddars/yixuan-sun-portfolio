@@ -16,14 +16,13 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
       <li><b>Professional Framework:</b> Building web applications using <b>Flask</b> (Industry-standard Python framework).</li>
     </ul>
   </details>
-
 * 📐 **[Advanced Mathematics](#):** & Logical Problem-solving — Completed **[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)** by Stanford University.
   <details>
     <summary><b>🎓 Click to view Mastery & Core Competencies.</b></summary>
     <ul>
-      <li><b>Status:</b> `Course Completed 100%` — Pending official certificate issuance.</li>
-      <li><b>Core Skills:</b> Advanced Symbolic Logic, Number Theory, and Mathematical Proofs.</li>
-      <li><b>Outcome:</b> Mastered the analytical thinking patterns required for high-level algorithms and STEM research.</li>
+      <li><b>Status:</b> `Course Completed 100%` — Focused on high-level logical proofs that transcend standard testing.</li>
+      <li><b>Core Skills:</b> Advanced Symbolic Logic, Number Theory, and rigorous Mathematical Proofs.</li>
+      <li><b>Outcome:</b> Developed the complex analytical patterns required for competitive STEM environments.</li>
     </ul>
   </details>
 * 🏊 **[Competitive Swimming](#):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](#) and [Meet Highlights](#).
