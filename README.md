@@ -15,6 +15,10 @@ This repository serves as a portfolio of my projects and experiences as I transi
 ### Building a Minecraft-Inspired Game
 Scratch was what first sparked my interest in coding. Later, while taking coding courses through CodeWizardsHQ, I worked on a Minecraft-inspired game as one of my first major projects.
 This experience was meaningful because it was the first time I realized that code is a creative tool. I learned that programming isn’t just about syntax—it’s about turning ideas into something real. That realization motivated me to continue learning and experimenting with code.
+<div style="text-align: center; margin: 20px 0;">
+    <img src="minecraft-aframe-game/minecraft-game-preview.jpg.png" alt="Minecraft Game Screenshot" style="width:100%; max-width:700px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <p style="font-style: italic; color: #666; margin-top: 10px;">Screenshot of the 3D Minecraft-inspired environment developed with A-Frame.</p>
+</div>
 
 ### Watching the Olympic Swimming Trials
 Watching the Olympic swimming trials was what inspired me to start swimming competitively. 
