@@ -17,6 +17,7 @@ This portfolio showcases my journey from foundational coding to creating immersi
 
 ## 🛠 Technical Skills 🏆
 
+
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | `JavaScript` `Python` `HTML/CSS` `Lua` `Luau` |
