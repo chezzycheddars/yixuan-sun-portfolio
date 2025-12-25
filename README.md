@@ -6,7 +6,7 @@
 
 ### 👤 About Me
 Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
-* 💻 **[Computer Science](#-my-projects):** Creating immersive 3D worlds like [Minecraft A-Frame](https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/) and interactive [Pixel Pals](https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/).
+* 💻 **[Computer Science](#-my-projects):** Creating immersive 3D worlds like [Minecraft A-Frame](https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/), interactive [Pixel Pals](https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/), and data-driven tools like [Zen Survey](https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survey/).
 * 📐 **[Advanced Mathematics](#):** Applied logical problem-solving (View my [Achievement Certificate](#)). 
 * 🏊 **[Competitive Swimming](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/):** National-level athlete with [Official Rankings](#) and [Training Highlights](#).
 * ✍️ **[Reading & Narrative Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Crafting stories through logic and prose (Explore my [Writing Works](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/)).
