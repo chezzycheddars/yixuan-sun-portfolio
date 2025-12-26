@@ -25,7 +25,8 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
       <li><b>Outcome:</b> Developed the complex analytical patterns required for competitive STEM environments.</li>
     </ul>
   </details>
-* 🏊 **[Competitive Swimming](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/) and [Meet Highlights Video](https://youtu.be/3DjrPDhIGnI/).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Video Note: Showing strong lead and endurance from the start.*
+* 🏊 **[Competitive Swimming](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/) and [Meet Highlights Video](https://youtu.be/3DjrPDhIGnI/).
+<div align="right"><em><strong>Video Note:</strong> Showing strong lead and endurance from the start.</em></div>  
 * ✍️ **[Humanities & Analytical Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Deeply reflective analysis of science and human nature.
 
 *This portfolio showcases my journey from foundational coding to creating immersive 3D environments.*
