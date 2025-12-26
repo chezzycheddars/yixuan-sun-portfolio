@@ -90,15 +90,5 @@ Learn about my competitive swimming journey:
 
 ## Curiosity & Humanities
 
-### 🖋️ Reading & Narrative Writing
-
-* 📝 **[Timed Writing Sample: Dinner with Einstein](./humanities/timed-writing.md)**
-  * **Description:** Timed Writing Sample (25-minute prompt)
-  * **Context:** "A self-administered diagnostic writing exercise designed to showcase rapid critical thinking and narrative structure under strict time constraints."
-
-* 🎓 **[Academic Writing Sample (Graded)](./Sun_Yixuan_Writing_Sample.pdf)**
-  * **Description:** Formal School Essay (Literary Analysis)
-  * **Context:** "A formal academic piece showcasing depth in literary analysis, including original teacher feedback to demonstrate academic rigor."
-
 See the hobbies I explore:  
 [View Curiosity Portfolio](curiosity/)
