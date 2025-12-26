@@ -27,6 +27,7 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
   </details>
 * 🏊 **[Competitive Swimming](#):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](#) and [Meet Highlights](#).
 * ✍️ **[Humanities & Analytical Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Deeply reflective analysis of science and human nature.
+
 *This portfolio showcases my journey from foundational coding to creating immersive 3D environments.*
 
 ---
