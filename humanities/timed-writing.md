@@ -6,8 +6,7 @@ If I could have dinner with any historical figure, I'd choose Albert Einstein. H
 Einstein was more than just a physicist—he was a deep thinker who challenged conventional ideas. His famous equation, E = mc, revolutionized science, but he also explored big questions about life. I'd love to ask him how he saw the connection between science and spirituality. Did he believe his discoveries pointed to a higher power, or was he a strict materialist? Id also be curious about how he felt about the use of his theories in nuclear weapons, something he struggled with later in life.
 
 What excites me most about dining with Einstein isn't just his scientific genius but his view of the world. He once said,
-
-"Imagination is more important than knowledge," and I'd love to hear him explain that. How did his imagination influence his scientific work? As someone who values creativity, I'd want to know how he balanced it with the rigor of science. I think his approach to problem-solving could teach us a lot about tackling challenges in any field.
+"Imagination is more important than knowledge," and I'd love to hear him explain that. How did his imagination influence his scientific work? As someone who values creativity, I'd want to know how he balanced it with the rigor of science. I think his approach to problem-solving could teach us a lot about tackling challenges in any field."
 
 Finally, I'd want to hear his thoughts on the human condition.
 
