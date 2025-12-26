@@ -1,4 +1,4 @@
-# 🚀 Yixuan Sun | STEM Innovator, Athlete & Analytical Thinker
+# 🚀 Yixuan Sun   |   STEM Innovator, Athlete & Analytical Thinker
 
 > **"Turning logic into reality through code, and building discipline through every lap in the pool, and exploring human complexity through deep narrative."**
 
