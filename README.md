@@ -1,6 +1,6 @@
-# 🚀 Yixuan Sun | STEM Innovator & Athlete
+# 🚀 Yixuan Sun | STEM Innovator, Athlete & Analytical Thinker
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Innovation&fontSize=70&fontColor=FFD700" width="100%"/>
-> **"Turning logic into reality through code, and building discipline through every lap in the pool."**
+> **"Turning logic into reality through code, and building discipline through every lap in the pool, and exploring human complexity through deep narrative."**
 
 ---
 
@@ -26,8 +26,7 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
     </ul>
   </details>
 * 🏊 **[Competitive Swimming](#):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](#) and [Meet Highlights](#).
-* ✍️ **[Reading & Narrative Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Exploring complex stories and articulating ideas through creative prose.
-
+* ✍️ **[Humanities & Analytical Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Deeply reflective analysis of science and human nature.
 *This portfolio showcases my journey from foundational coding to creating immersive 3D environments.*
 
 ---
