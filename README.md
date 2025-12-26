@@ -16,6 +16,7 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
       <li><b>Professional Framework:</b> Building web applications using <b>Flask</b> (Industry-standard Python framework).</li>
     </ul>
   </details>
+
 * 📐 **[Advanced Mathematics](#):** & Logical Problem-solving — Completed **[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)** by Stanford University.
   <details>
     <summary><b>🎓 Click to view Mastery & Core Competencies.</b></summary>
@@ -25,6 +26,7 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
       <li><b>Outcome:</b> Developed the complex analytical patterns required for competitive STEM environments.</li>
     </ul>
   </details>
+
 * 🏊 **[Competitive Swimming](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/) and [Meet Highlights Video](https://youtu.be/3DjrPDhIGnI/).
 <p align="right"><em><strong>Video Note:</strong> Showing strong lead and endurance from the start.</em></p>
 * ✍️ **[Humanities & Analytical Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Deeply reflective analysis of science and human nature.
