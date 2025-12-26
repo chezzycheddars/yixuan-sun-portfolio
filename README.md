@@ -7,7 +7,7 @@
 <p align="center">
   <img src="avatar1.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover; border:3px solid #f0f0f0; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
   <br>
-  <strong><font size="6">About Me</font></strong>
+ <strong><font size="6">About Me</font></strong>
 </p>
 
 Hi! My name is **Yixuan Sun**. I am a 13-year-old 8th-grade student at [Melican Middle School](https://www.melican.nsboro.k12.ma.us/) in Massachusetts, and a STEM enthusiast with strong interests in:
