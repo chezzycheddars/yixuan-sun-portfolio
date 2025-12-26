@@ -1,5 +1,5 @@
 # 🚀 Yixuan Sun | STEM Innovator & Athlete
-![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Innovation&fontSize=70&fontColor=FFD700)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Innovation&fontSize=70&fontColor=FFD700" width="100%"/>
 > **"Turning logic into reality through code, and building discipline through every lap in the pool."**
 
 ---
