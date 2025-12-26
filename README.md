@@ -25,8 +25,8 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
       <li><b>Outcome:</b> Developed the complex analytical patterns required for competitive STEM environments.</li>
     </ul>
   </details>
-* 🏊 **[Competitive Swimming](#):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](#) and [Meet Highlights](#).
-* ✍️ **[Humanities & Analytical Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Deeply reflective analysis of science and human nature.
+| **Professional Track** | ![85%](https://geps.dev/progress/85) `High School CS Core Track` — Completed `85%+` (`Backend`, `Databases`, `APIs`, `Flask`) |
+| **Academic Core** | ![100%](https://geps.dev/progress/100) `Stanford: Introduction to Mathematical Thinking` — Completed `100%` |of science and human nature.
 
 *This portfolio showcases my journey from foundational coding to creating immersive 3D environments.*
 
