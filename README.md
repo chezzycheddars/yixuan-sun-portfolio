@@ -49,7 +49,7 @@ Hi! My name is **Yixuan Sun**. I am a STEM enthusiast with strong interests in:
 Scratch was what first sparked my interest in coding. Later, while taking coding courses through CodeWizardsHQ, I worked on a Minecraft-inspired game as one of my first major projects.
 This experience was meaningful because it was the first time I realized that code is a creative tool. I learned that programming isn’t just about syntax—it’s about turning ideas into something real. That realization motivated me to continue learning and experimenting with code.
 <div style="text-align: center; margin: 20px 0;">
-    <img src="minecraft-fast.gif.gif" alt="Minecraft Game Screenshot" style="width:100%; max-width:700px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+   <img src="minecraft-fast.gif.gif" alt="Minecraft Gameplay Demo" loading="lazy" style="width:100%; max-width:700px; border-radius:15px; display: block; margin: 20px auto;">
     <p style="font-style: italic; color: #666; margin-top: 10px;">Screenshot of the 3D Minecraft-inspired environment developed with A-Frame.</p>
 </div>
 
