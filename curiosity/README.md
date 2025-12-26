@@ -5,11 +5,11 @@ I am deeply curious and love exploring a wide variety of activities. Trying new 
 
 ## 🖋️ Reading & Narrative Writing
 
-* 📝 **[Timed Writing Sample: Dinner with Einstein](./humanities/timed-writing.md)**
+* 📝 **[Timed Writing Sample: Dinner with Einstein](../humanities/timed-writing.md)**
   * **Description:** Timed Writing Sample (25-minute prompt)
   * **Context:** "A self-administered diagnostic writing exercise designed to showcase rapid critical thinking and narrative structure under strict time constraints."
 
-* 🎓 **[Academic Writing Sample (Graded)](./Sun_Yixuan_Writing_Sample.pdf)**
+* 🎓 **[Academic Writing Sample (Graded)](../Sun_Yixuan_Writing_Sample.pdf)**
   * **Description:** Formal School Essay (Literary Analysis)
   * **Context:** "A formal academic piece showcasing depth in literary analysis, including original teacher feedback to demonstrate academic rigor."
 
@@ -43,6 +43,7 @@ I am deeply curious and love exploring a wide variety of activities. Trying new 
 
 ## Reflection
 Exploring diverse activities has helped me build a **broad skill set and an inventive mindset**. Whether it’s dance, animation, or coding, I enjoy experimenting, learning independently, and finding connections between my interests.
+
 
 
 
