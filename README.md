@@ -67,7 +67,7 @@ The discipline and persistence I’ve developed through swimming have a strong i
 <p align="center">
   <img src="swimming-butterfly-stroke.gif.gif" alt="Swimming breakdown drills at YMCA" width="700" style="border-radius: 15px;">
   <br>
-  <em>Self-guided breakdown drills at the YMCA.</em>
+  <em>Self-guided Butterfly stroke training: Mastering power and rhythm at the YMCA.</em>
 </p>
 
 ## Goals
