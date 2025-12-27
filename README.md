@@ -64,10 +64,11 @@ Watching the Olympic swimming trials was what inspired me to start swimming comp
 I previously played soccer, but over time, I realized it wasn’t the right fit for me. With encouragement from my mom, I tried swimming and eventually came to love it.
 This experience taught me the importance of exploring new interests and committing fully to something meaningful. 
 The discipline and persistence I’ve developed through swimming have a strong influence on how I approach learning computer science.
-<div style="text-align: center; margin: 20px 0;">
-  <img src="swimming-breakdown-drills.gif.gif" alt="Swimming breakdown drills at YMCA" style="width:100%; max-width:700px; border-radius: 15px; display: block; margin: 20px auto;">
-  <p style="font-style: italic; color: #666; margin-top: 10px;">Self-guided breakdown drills at the YMCA.</p>
-</div>
+<p align="center">
+  <img src="swimming-breakdown-drills.gif.gif" alt="Swimming breakdown drills at YMCA" width="700" style="border-radius: 15px;">
+  <br>
+  <em>Self-guided breakdown drills at the YMCA.</em>
+</p>
 
 ## Goals
 
