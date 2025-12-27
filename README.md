@@ -65,7 +65,7 @@ I previously played soccer, but over time, I realized it wasn’t the right fit 
 This experience taught me the importance of exploring new interests and committing fully to something meaningful. 
 The discipline and persistence I’ve developed through swimming have a strong influence on how I approach learning computer science.
 <p align="center">
-  <img src="swimming-butterfly-stroke.gif.gif" alt="Swimming breakdown drills at YMCA" width="500" style="border-radius: 15px;">
+  <img src="swimming-butterfly-stroke.gif.gif" alt="Swimming breakdown drills at YMCA" width="700" style="border-radius: 15px;">
   <br>
   <em>Self-guided Butterfly stroke training: Mastering power and rhythm at the YMCA; currently working on improving body undulation and timing of the second kick.</em>
 </p>
