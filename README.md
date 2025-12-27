@@ -10,7 +10,7 @@
  <strong><font size="6">About Me</font></strong>
 </p>
 
-Hi! My name is **Yixuan Sun**.I am a 13-year-old 8th-grade student at at **Robert E. Melican Middle School** in Northborough, MA. And a STEM enthusiast with strong interests in:
+Hi! My name is **Yixuan Sun**.I am a 13-year-old 8th-grade student at **Robert E. Melican Middle School** in Northborough, MA. And a STEM enthusiast with strong interests in:
 
 * 💻 **[Computer Science](#my-projects):** (JavaScript, Python, Lua) — Creating immersive 3D worlds like [Minecraft A-Frame](https://chezzycheddars.github.io/yixuan-sun-portfolio/minecraft-aframe-game/), [Pixel Pals](https://chezzycheddars.github.io/yixuan-sun-portfolio/pet-simulator/), and [Zen Survey](https://chezzycheddars.github.io/yixuan-sun-portfolio/zen-survey/).
   <details>
