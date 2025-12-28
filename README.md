@@ -34,8 +34,8 @@ Hi! My name is **Yixuan Sun**.I am a 13-year-old 8th-grade student at **Robert E
 
 * ✍️ **[Humanities & Analytical Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Deeply reflective analysis of science and human nature.
 <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/Yixuan_Sun_Timed_Writing_Einstein.pdf.pdf" 
-     style="margin-left: 10px; font-weight: bold; color: #2a7ae2; text-decoration: underline; text-underline-offset: 4px;">
-     [Case Study: The Human Side of Einstein ➔]
+     style="margin-left: 8px; font-weight: bold; color: #2a7ae2; text-decoration: underline; text-underline-offset: 4px;">
+     [Timed Analysis: Einstein’s Humanity in 25 Minutes ➔]
   </a>
 </li>
 
