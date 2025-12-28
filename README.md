@@ -32,6 +32,7 @@ Hi! My name is **Yixuan Sun**.I am a 13-year-old 8th-grade student at **Robert E
   </details>
 * 🏊 **[Competitive Swimming](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/):** (Discipline & Perseverance) — Dedicated athlete with [Official Results](https://chezzycheddars.github.io/yixuan-sun-portfolio/swimming/) and [Meet Highlights Video](https://youtu.be/3DjrPDhIGnI/).
 
+<li>
 * ✍️ **[Humanities & Analytical Writing](https://chezzycheddars.github.io/yixuan-sun-portfolio/curiosity/):** Deeply reflective analysis of science and human nature.
 <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/Yixuan_Sun_Timed_Writing_Einstein.pdf.pdf" 
      style="margin-left: 8px; font-weight: bold; color: #2a7ae2; text-decoration: underline; text-underline-offset: 4px;">
