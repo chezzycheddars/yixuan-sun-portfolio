@@ -20,9 +20,9 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 <p align="center">
   <img src="../Yixuan_Sun_200Fly_0.01s_Gap_Official_Proof.jpg" width="24%" alt="200 Fly Proof">
   <img src="../Yixuan_Sun_100Fly_0.33s_Gap_Official_Proof.jpg" width="24%" alt="100 Fly Proof">
-</p>
+<br>
   <em>From SE Motion App.</em>
-</div>
+</p>
 
 ### My Growth & Resilience: California to New England
 
@@ -44,6 +44,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
