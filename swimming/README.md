@@ -18,7 +18,6 @@ success. In 2023, I moved from California to Massachusetts and joined Greenwood 
 
 - **200 Fly:** 2:19.70 — Narrowly missed Championship cut by **0.01s**.
 - **100 Fly:** 1:01.12 — Within **0.33s** of qualifying standard.
-- **50 Free:** 26.27.
 
 > "Missing the Championship cut by just 0.01 seconds in the 200 Fly was a defining moment for me. It taught me that in elite competition, every detail matters—from the initial dive to the final touch. While it was a narrow miss, it serves as a powerful motivator, proving I am on the verge of a major breakthrough. This pursuit of precision is a mindset I now apply to both my swimming and my coding projects."
 
@@ -34,6 +33,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
