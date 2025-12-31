@@ -5,7 +5,7 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 
 ## Highlights & Achievements
 
-## Latest Performance Highlights: 2025 NE CRIM FROSTY (Dec 12–14, 2024)
+### Latest Performance Highlights: 2025 NE CRIM FROSTY (Dec 12–14, 2024)
 
 * **200 Fly:** 2:19.70 — Narrowly missed Championship cut by **0.01s**.
 * **100 Fly:** 1:01.12 — Within **0.33s** of qualifying standard.
@@ -33,6 +33,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
