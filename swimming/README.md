@@ -5,7 +5,7 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 
 ## Highlights & Achievements
 ### Performance Growth & Regional Transition (2022–2025)
-![Swimming Growth Trajectory](./Yixuan_Sun_Swimming_Growth_Trajectory_2022-2025.jpg)
+![Yixuan Sun Swimming Progression](Yixuan_Sun_Swimming_Growth_Trajectory_2022-2025.jpg)
 - **200 Fly:** 2:19.70 (SCY) at the 2025 NE CRIM FROSTY FRENZY meet  
 - **100 Fly:** 1:01.12 (SCY) at the 2025 NE CRIM FROSTY FRENZY meet  
 - **50 Free:** 26.27 (SCY) at the 2025 NE CRIM FROSTY FRENZY meet  
@@ -23,6 +23,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
