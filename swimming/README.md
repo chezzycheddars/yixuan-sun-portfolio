@@ -7,10 +7,13 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 
 ### Latest Meeting Highlights: 2025 NE CRIM FROSTY (Dec 12–14, 2024)
 
+<div align="center">
+  
 | Event | Your Time | **Championship Cut** | Status/Gap |
 | :--- | :--- | :--- | :--- |
 | **200 Yard Butterfly** | **2:19.70** | [**2:19.69**](https://www.gomotionapp.com/lscnes/UserFiles/Image/QuickUpload/11-14-ag-time-standards_004824.pdf) | 🔴 Missed by only **0.01s** |
 | **100 Yard Butterfly** | **1:01.12** | [**1:00.79**](https://www.gomotionapp.com/lscnes/UserFiles/Image/QuickUpload/11-14-ag-time-standards_004824.pdf) | 🟡 Within **0.33s** of cut |
+</div>
 
 > ### **Personal Reflection: The Power of 0.01 Seconds**
 > "Missing the Age Group Championship cut by just 0.01 seconds in the 200 Fly was a defining moment for me. It taught me that in elite competition, every detail matters—from the initial dive to the final touch. While it was a narrow miss, it serves as a powerful motivator, proving I am on the verge of a major breakthrough. This pursuit of precision is a mindset I now apply to both my swimming and my coding projects."
@@ -18,6 +21,8 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
   <img src="../Yixuan_Sun_200Fly_0.01s_Gap_Official_Proof.jpg" width="24%" alt="200 Fly Proof">
   <img src="../Yixuan_Sun_100Fly_0.33s_Gap_Official_Proof.jpg" width="24%" alt="100 Fly Proof">
 </p>
+  <em>From SE Motion App.</em>
+</div>
 
 ### My Growth & Resilience: California to New England
 
@@ -39,6 +44,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
