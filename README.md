@@ -73,7 +73,7 @@ The discipline and persistence I’ve developed through swimming have a strong i
 ## Goals
 
 - **Build innovative software solutions** that bridge the gap between complex logic and everyday utility.
-- **Deepen expertise in competitive STEM research**, with a focused aim on qualifying for elite programs such as **MIT PRIMES** to explore advanced mathematical theories.
+- **Deepen expertise in competitive STEM research**, deepening my expertise in STEM by intentionally choosing deep logical inquiry over standardized math competitions like the AMC. My core goal is to dedicate my time and energy to authentic academic research and qualify for elite programs such as **MIT PRIMES**. Through exploring advanced mathematical theories, I aim to evolve into an independent thinker with the capacity for professional-level research.
 - **Master additional programming paradigms**, expanding from creative 3D environments to high-performance algorithmic development.
 - **Achieve excellence in competitive swimming** by reaching the New England Championships while maintaining a rigorous and balanced academic growth.
 
