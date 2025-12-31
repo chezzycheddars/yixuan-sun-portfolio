@@ -15,8 +15,8 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 > ### **Personal Reflection: The Power of 0.01 Seconds**
 > "Missing the Age Group Championship cut by just 0.01 seconds in the 200 Fly was a defining moment for me. It taught me that in elite competition, every detail matters—from the initial dive to the final touch. While it was a narrow miss, it serves as a powerful motivator, proving I am on the verge of a major breakthrough. This pursuit of precision is a mindset I now apply to both my swimming and my coding projects."
 <p align="center">
-  <img src="../Yixuan_Sun_200Fly_0.01s_Gap_Official_Proof.jpg" width="48%" alt="200 Fly Proof">
-  <img src="../Yixuan_Sun_100Fly_0.33s_Gap_Official_Proof.jpg" width="48%" alt="100 Fly Proof">
+  <img src="../Yixuan_Sun_200Fly_0.01s_Gap_Official_Proof.jpg" width="17%" alt="200 Fly Proof">
+  <img src="../Yixuan_Sun_100Fly_0.33s_Gap_Official_Proof.jpg" width="17%" alt="100 Fly Proof">
 </p>
 
 ### My Growth & Resilience: California to New England
@@ -39,6 +39,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
