@@ -1,7 +1,3 @@
-[🏠](https://chezzycheddars.github.io/yixuan-sun-portfolio/)
-
----
-
 # Curiosity & Creativity
 
 ## Overview
@@ -47,6 +43,7 @@ I am deeply curious and love exploring a wide variety of activities. Trying new 
 
 ## Reflection
 Exploring diverse activities has helped me build a **broad skill set and an inventive mindset**. Whether it’s dance, animation, or coding, I enjoy experimenting, learning independently, and finding connections between my interests.
+
 
 
 
