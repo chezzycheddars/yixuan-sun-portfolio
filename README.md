@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/" style="text-decoration: none; color: #333;">
+    <h1 style="border-bottom: 2px solid #eee; padding-bottom: 10px; font-family: sans-serif; letter-spacing: 2px;">
+      YIXUAN SUN | OFFICIAL PORTFOLIO
+    </h1>
+  </a>
+</div>
+
 # 🚀 Yixuan Sun   |   STEM Innovator, Athlete & Analytical Thinker
 
 > **"Turning logic into reality through code, and building discipline through every lap in the pool, and exploring human complexity through deep narrative."**
