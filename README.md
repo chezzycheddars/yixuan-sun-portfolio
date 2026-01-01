@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/" style="text-decoration: none;">
-    <h1 style="border: none; color: #007bff; font-family: sans-serif; letter-spacing: 2px;">
+  <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/" style="text-decoration: none !important; border: none !important;">
+    <h1 style="color: #007bff !important; border-bottom: none !important; margin-bottom: 0; font-family: sans-serif; letter-spacing: 2px;">
       YIXUAN SUN | OFFICIAL PORTFOLIO
     </h1>
   </a>
