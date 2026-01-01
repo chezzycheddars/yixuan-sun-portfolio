@@ -9,8 +9,8 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 
 | Event | Finals Rank | My Time | **AG Championship Standard** | Meet Date | AG Championship Cut |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| **200 Yard Butterfly** | [**2rd**](https://www.swimcloud.com/results/367793/event/6/?id=165758572#time165758572) | **2:19.70** | [**2:19.69**](https://www.gomotionapp.com/lscnes/UserFiles/Image/QuickUpload/11-14-ag-time-standards_004824.pdf) | Dec 13, 2024 | 🔴 Missed by only **0.01s** |
-| **100 Yard Butterfly** | [**2rd**](https://www.swimcloud.com/results/367793/event/50/?id=165757760#time165757760) | **1:01.12** | [**1:00.79**](https://www.gomotionapp.com/lscnes/UserFiles/Image/QuickUpload/11-14-ag-time-standards_004824.pdf) | Dec 14, 2024 | 🟡 Within **0.33s** of cut |
+| **200 Yard Butterfly** | [**2nd**](https://www.swimcloud.com/results/367793/event/6/?id=165758572#time165758572) | **2:19.70** | [**2:19.69**](https://www.gomotionapp.com/lscnes/UserFiles/Image/QuickUpload/11-14-ag-time-standards_004824.pdf) | Dec 13, 2024 | 🔴 Missed by only **0.01s** |
+| **100 Yard Butterfly** | [**2nd**](https://www.swimcloud.com/results/367793/event/50/?id=165757760#time165757760) | **1:01.12** | [**1:00.79**](https://www.gomotionapp.com/lscnes/UserFiles/Image/QuickUpload/11-14-ag-time-standards_004824.pdf) | Dec 14, 2024 | 🟡 Within **0.33s** of cut |
 
 
 ### **Personal Reflection: The Power of 0.01 Seconds**
@@ -43,6 +43,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
 - [USA Swimming Individual Times Search](https://data.usaswimming.org/datahub/usas/individualsearch)
+
 
 
 
