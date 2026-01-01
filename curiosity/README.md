@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/" style="text-decoration: none !important; border: none !important;">
     <h1 style="color: #007bff !important; border-bottom: none !important; margin-bottom: 0; font-family: sans-serif; letter-spacing: 2px;">
-      YIXUAN SUN | OFFICIAL PORTFOLIO
+      YIXUAN SUN | OFFICIAL PORTFOLIO ↩
     </h1>
   </a>
 </div>
@@ -51,6 +51,7 @@ I am deeply curious and love exploring a wide variety of activities. Trying new 
 
 ## Reflection
 Exploring diverse activities has helped me build a **broad skill set and an inventive mindset**. Whether it’s dance, animation, or coding, I enjoy experimenting, learning independently, and finding connections between my interests.
+
 
 
 
