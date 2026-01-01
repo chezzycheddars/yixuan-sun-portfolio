@@ -6,11 +6,15 @@
   </a>
 </div>
 
+---
+
 <p align="center" style="opacity: 0.5; font-size: 0.85em; line-height: 1.4;">
   <i>
-    <b>Heritage & Identity Note:</b> This GitHub account ( <code>chezzycheddars</code> ) was established in December 2023 when I was 11 years old as my first digital exploration space. While the username reflects my childhood curiosity at that time, the projects showcased here represent my academic growth leading into the 2026 admissions season.
+    <b>Heritage & Identity Note:</b> This GitHub account ( <a href="https://github.com/chezzycheddars" style="color: inherit; text-decoration: underline;"><code>chezzycheddars</code></a> ) was established in December 2023 when I was 11 years old as my first digital exploration space. While the username reflects my childhood curiosity at that time, the projects showcased here represent my academic growth leading into the 2026 admissions season.
   </i>
 </p>
+
+---
 
 # 🚀 Yixuan Sun   |   STEM Innovator, Athlete & Analytical Thinker
 
