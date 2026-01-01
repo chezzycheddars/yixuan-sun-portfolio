@@ -25,7 +25,7 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 
 "What defines me is my resilience and consistent ability to achieve come-from-behind success. In 2023, I moved from California to Massachusetts and joined Greenwood Swimming. Starting with times 'Slower than B,' I embraced the challenge of the competitive New England circuit, transforming 'Slower than B' times into championship qualifications through a rigorous training regimen and qualified for the **New England 11-12 Age Group Championships** at age 12, the following year. The data below illustrates my progression and time standard achievements, captured from my final meet in 2022 through the data cutoff on November 20, 2025."
 
-<p align="center">
+<p align="center"> 
   <img src="../Yixuan_Sun_Swimming_Growth_Trajectory_2022-2025.jpg" alt="Yixuan Sun Swimming Growth Trajectory" style="width: 100%; height: auto; border-radius: 15px;">
 </p>
 
@@ -41,6 +41,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
