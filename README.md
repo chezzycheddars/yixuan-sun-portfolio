@@ -12,7 +12,7 @@
     <b>Heritage & Identity Note:</b> This GitHub account ( <a href="https://github.com/chezzycheddars" style="color: #444; text-decoration: underline;"><b>chezzycheddars</b></a> ) was established in December 2023 when I was 11 years old as my first digital exploration space. While the username reflects my childhood curiosity at that time, the projects showcased here represent my academic growth leading into the 2026 admissions season.
   </i>
 </p>
-<br>
+
 <h1 align="center" style="margin-top: 50px; color: #333; font-family: sans-serif;">
   🚀 Yixuan Sun &nbsp;|&nbsp; STEM Innovator, Athlete & Analytical Thinker
 </h1>
