@@ -6,7 +6,6 @@
   </a>
 </div>
 
----
 
 <p align="center" style="opacity: 0.5; font-size: 0.85em; line-height: 1.4;">
   <i>
@@ -14,7 +13,6 @@
   </i>
 </p>
 
----
 
 # 🚀 Yixuan Sun   |   STEM Innovator, Athlete & Analytical Thinker
 
