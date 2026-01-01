@@ -51,12 +51,9 @@ Hi! My name is **Yixuan Sun**.I am a 13-year-old 8th-grade student at **Robert E
 ---
 ## Significant Experiences
 
-### Building a Minecraft-Inspired 3D Environment
-
-While Scratch sparked my initial curiosity, it was developing this Minecraft-inspired 3D game—a milestone project during my [CodeWizardsHQ curriculum](Professional_Development_Timeline_Yixuan_Sun.pdf)—that truly defined my path as a creator. 
-
-**Reflections:**
-This project was a transformative experience. It taught me that programming transcends mere syntax; it is a powerful creative medium for turning abstract concepts into interactive reality. Mastering the [A-Frame framework](https://github.com/chezzycheddars/yixuan-sun-portfolio/tree/main/minecraft-aframe-game) to build a navigable world solidified my understanding of spatial logic and architectural thinking. This realization—that I can architect my own digital dimensions—remains the driving force behind my commitment to mastering complex algorithmic development.
+### Building a Minecraft-Inspired Game
+Scratch was what first sparked my interest in coding. Later, while taking coding courses through CodeWizardsHQ, I worked on a Minecraft-inspired game as one of my first major projects.
+This experience was meaningful because it was the first time I realized that code is a creative tool. I learned that programming isn’t just about syntax—it’s about turning ideas into something real. That realization motivated me to continue learning and experimenting with code.
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="minecraft-fast.gif.gif" alt="Minecraft Gameplay Demo" loading="lazy" style="width: 100%; max-width: 700px; border-radius: 15px; display: block; margin: 20px auto;">
