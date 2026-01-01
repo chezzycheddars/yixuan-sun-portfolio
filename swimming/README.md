@@ -9,12 +9,10 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 
 <div align="center">
 
-
 | Event | Your Time | **Championship Cut** | Status/Gap |
 | :--- | :--- | :--- | :--- |
 | **200 Yard Butterfly** | **2:19.70** | [**2:19.69**](https://www.gomotionapp.com/lscnes/UserFiles/Image/QuickUpload/11-14-ag-time-standards_004824.pdf) | 🔴 Missed by only **0.01s** |
 | **100 Yard Butterfly** | **1:01.12** | [**1:00.79**](https://www.gomotionapp.com/lscnes/UserFiles/Image/QuickUpload/11-14-ag-time-standards_004824.pdf) | 🟡 Within **0.33s** of cut |
-
 
 </div>
 
@@ -47,6 +45,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
