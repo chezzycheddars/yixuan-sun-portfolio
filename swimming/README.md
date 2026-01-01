@@ -8,15 +8,12 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
 ### Latest Meeting Highlights: 2025 NE CRIM FROSTY (Dec 12–14, 2024)
 
 <div align="center">
-
-
-<div align="center">
-  <table style="margin: 0 auto;">
+  <table style="margin: 0 auto; text-align: center;">
     <thead>
       <tr>
         <th>Event</th>
         <th>Your Time</th>
-        <th>Championship Cut</th>
+        <th><b>Championship Cut</b></th>
         <th>Status/Gap</th>
       </tr>
     </thead>
@@ -35,9 +32,6 @@ I swim competitively for **Greenwood Swimming** in Massachusetts. Swimming has t
       </tr>
     </tbody>
   </table>
-</div>
-
-
 </div>
 
 ### **Personal Reflection: The Power of 0.01 Seconds**
@@ -69,6 +63,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 ## Links
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
+
 
 
 
