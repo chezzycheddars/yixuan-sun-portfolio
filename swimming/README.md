@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/" style="text-decoration: none !important; border: none !important;">
-    <h1 style="color: #007bff !important; border-bottom: none !important; margin-bottom: 0; font-family: sans-serif; letter-spacing: 2px;">
-      YIXUAN SUN | OFFICIAL PORTFOLIO ↩
+  <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/" style="text-decoration: none !important;">
+    <h1 style="border: none !important; border-bottom: none !important; color: #007bff !important; font-family: sans-serif; letter-spacing: 2px; display: inline-block;">
+      YIXUAN SUN | OFFICIAL PORTFOLIO ➤
     </h1>
   </a>
 </div>
@@ -55,6 +55,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
 - [USA Swimming Individual Times Search](https://data.usaswimming.org/datahub/usas/individualsearch)
+
 
 
 
