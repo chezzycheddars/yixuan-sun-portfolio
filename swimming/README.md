@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/" style="text-decoration: none; color: inherit;">
+    <h1 style="border: none; margin-bottom: 0; font-family: sans-serif; letter-spacing: 2px;">
+      YIXUAN SUN | OFFICIAL PORTFOLIO
+    </h1>
+  </a>
+</div>
+
 # Competitive Swimming
 
 ## Overview
@@ -47,6 +55,7 @@ Swimming is not just a sport; it’s a way I’ve learned to push boundaries. Th
 - [SwimCloud Profile](https://www.swimcloud.com/swimmer/1879023/)  
 - [Swim Standards Team Page](https://swimstandards.com/clubs/ne/greenwood-swimming)
 - [USA Swimming Individual Times Search](https://data.usaswimming.org/datahub/usas/individualsearch)
+
 
 
 
