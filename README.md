@@ -61,7 +61,7 @@ Hi! My name is **Yixuan Sun**. I am a 13-year-old 8th-grade student at **Robert 
 | :--- | :--- |
 | **Languages** | `JavaScript` `Python` `HTML/CSS` `Lua` `Luau` |
 | **Tools** | `A-Frame` `Scratch` `GitHub` `VS Code` |
-| **Professional Track** | <img src="https://geps.dev/progress/95?width=250" align="absmiddle"> `High School CS Core Track` — `Completed 95%+` (**[View 17 Certifications (2020-2025)](Professional_Development_Timeline_Yixuan_Sun.pdf)**) |
+| **Professional Track** | <img src="https://geps.dev/progress/95?width=250" align="absmiddle"> `Overall CS Curriculum Progress Track` — `Completed 95%+` (**[View 17 Certifications (2020-2025)](Professional_Development_Timeline_Yixuan_Sun.pdf)**) |
 | **Academic Core** | <img src="https://geps.dev/progress/100?width=250" align="absmiddle"> `Stanford: Introduction to Mathematical Thinking` — `Completed 100%` |
 | **Soft Skills** | ⭐ `Narrative Writing` `Logical Thinking` `Goal Setting` |
 
