@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center" style="margin-top: 50px; color: #333; font-family: sans-serif;">
-  🚀 Yixuan Sun &nbsp;|&nbsp; STEM Innovator, Athlete & Analytical Thinker
+   Yixuan Sun &nbsp;|&nbsp; STEM Innovator, Athlete & Analytical Thinker
 </h1>
 
 > **"Turning logic into reality through code, and building discipline through every lap in the pool, and exploring human complexity through deep narrative."**
@@ -63,8 +63,8 @@ Hi! My name is **Yixuan Sun**. I am a 13-year-old 8th-grade student at **Robert 
 | **Languages** | `JavaScript` `Python` `HTML/CSS` `Lua` `Luau` |
 | **Tools** | `A-Frame` `Scratch` `GitHub` `VS Code` |
 | **Professional Track** | <img src="https://geps.dev/progress/95?width=250" align="absmiddle"> `Comprehensive CS Pathway Progress` — `Completed 95%+` (**[View 17 Certifications (2020-2025)](Professional_Development_Timeline_Yixuan_Sun.pdf)**) |
-| **Academic Core** | <img src="https://geps.dev/progress/100?width=250" align="absmiddle"> `Stanford: Introduction to Mathematical Thinking` —— **(College-level Transition Course) Grade: 89.66% (Honors • Top Performance)** (**[Detailed Grade Report](./Yixuan_Sun_Stanford_Math_Thinking_Grades.pdf)**) |
-| **Soft Skills** | ⭐ `Narrative Writing` `Logical Thinking` `Goal Setting` |
+| **Academic Core** | <img src="https://geps.dev/progress/100?width=250" align="absmiddle"> `Stanford: Introduction to Mathematical Thinking` —— **(College-level Transition Course)** (**[Detailed Grade Report](./Yixuan_Sun_Stanford_Math_Thinking_Grades.pdf)**) |
+| **Soft Skills** |  `Narrative Writing` `Logical Thinking` `Goal Setting` |
 
 ---
 ## Significant Experiences
