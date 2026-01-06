@@ -18,6 +18,7 @@
 </h1>
 
 > **"Turning logic into reality through code, and building discipline through every lap in the pool, and exploring human complexity through deep narrative."**
+> **"I felt like it."**
 
 ---
 
