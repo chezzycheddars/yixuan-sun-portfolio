@@ -38,7 +38,7 @@ Hi! My name is **Yixuan Sun**. I am a 13-year-old 8th-grade student at **Robert 
       <li><b>Professional Framework:</b> Building web applications using <b>Flask</b> (Industry-standard Python framework).</li>
     </ul>
   </details>
-* 📐 **[Advanced Mathematics](Yixuan_Sun_Stanford_Mathematics_Thinking_Certificate.pdf):** & Logical Problem-solving — Completed **[Introduction to Mathematical Thinking](https://coursera.org/share/0fb05a1fae7961395476e1c50d340cea)** by Stanford University. I prioritize deep logical inquiry over traditional competition-based math, focusing on building a rigorous foundational framework to solve complex, real-world problems.
+* 📐 **[Advanced Mathematics](Yixuan_Sun_Stanford_Mathematics_Thinking_Certificate.pdf):** & Logical Problem-solving — Completed **[Introduction to Mathematical Thinking](https://coursera.org/share/0fb05a1fae7961395476e1c50d340cea)** by Stanford University. *(Verified Credential: [BKANKZ6HMI5I](https://www.coursera.org/account/accomplishments/verify/BKANKZ6HMI5I))*I prioritize deep logical inquiry over traditional competition-based math, focusing on building a rigorous foundational framework to solve complex, real-world problems.
   <details>
     <summary><b>🎓 Click to view Mastery & Core Competencies.</b></summary>
     <ul>
