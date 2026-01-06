@@ -38,7 +38,7 @@ Hi! My name is **Yixuan Sun**. I am a 13-year-old 8th-grade student at **Robert 
       <li><b>Professional Framework:</b> Building web applications using <b>Flask</b> (Industry-standard Python framework).</li>
     </ul>
   </details>
-* 📐 **[Advanced Mathematics](Yixuan_Sun_Stanford_Mathematics_Thinking_Certificate.pdf):** & Logical Problem-solving — Completed **[Introduction to Mathematical Thinking(Official Credential)](https://coursera.org/share/0fb05a1fae7961395476e1c50d340cea)** by Stanford University. I prioritize deep logical inquiry over traditional competition-based math, focusing on building a rigorous foundational framework to solve complex, real-world problems.
+* 📐 **[Advanced Mathematics](Yixuan_Sun_Stanford_Mathematics_Thinking_Certificate.pdf):** & Logical Problem-solving — Completed (College-level)**[Introduction to Mathematical Thinking(Official Credential)](https://coursera.org/share/0fb05a1fae7961395476e1c50d340cea)** by Stanford University. I prioritize deep logical inquiry over traditional competition-based math, focusing on building a rigorous foundational framework to solve complex, real-world problems.
   <details>
     <summary><b>🎓 Click to view Mastery & Core Competencies.</b></summary>
     <ul>
@@ -62,7 +62,7 @@ Hi! My name is **Yixuan Sun**. I am a 13-year-old 8th-grade student at **Robert 
 | **Languages** | `JavaScript` `Python` `HTML/CSS` `Lua` `Luau` |
 | **Tools** | `A-Frame` `Scratch` `GitHub` `VS Code` |
 | **Professional Track** | <img src="https://geps.dev/progress/95?width=250" align="absmiddle"> `Comprehensive CS Pathway Progress` — `Completed 95%+` (**[View 17 Certifications (2020-2025)](Professional_Development_Timeline_Yixuan_Sun.pdf)**) |
-| **Academic Core** | <img src="https://geps.dev/progress/100?width=250" align="absmiddle"> `Stanford: Introduction to Mathematical Thinking` —— **Grade: 89.66% (Honors • Top Performance)** (**[Detailed Grade Report](./Yixuan_Sun_Stanford_Math_Thinking_Grades.pdf)**) |
+| **Academic Core** | <img src="https://geps.dev/progress/100?width=250" align="absmiddle"> `Stanford: Introduction to Mathematical Thinking` —— **(College-level Transition Course) Grade: 89.66% (Honors • Top Performance)** (**[Detailed Grade Report](./Yixuan_Sun_Stanford_Math_Thinking_Grades.pdf)**) |
 | **Soft Skills** | ⭐ `Narrative Writing` `Logical Thinking` `Goal Setting` |
 
 ---
