@@ -18,9 +18,9 @@
 </h1>
 
 > **"Turning logic into reality through code, and building discipline through every lap in the pool, and exploring human complexity through deep narrative."**
-> **"I felt like it."**
 
 ---
+> **"I felt like it."**
 
 <p align="center">
   <img src="avatar1.jpg" width="180" height="180" style="border-radius:50%; object-fit:cover; border:3px solid #f0f0f0; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
