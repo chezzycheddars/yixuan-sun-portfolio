@@ -55,7 +55,7 @@ Hi! My name is **Yixuan Sun**. I am a 13-year-old 8th-grade student at **Robert 
 
 ---
 
-## 🛠 Technical Skills 🏆
+## Technical Skills 
 
 | Category | Skills |
 | :--- | :--- |
@@ -117,7 +117,7 @@ Thank you for taking the time to explore my work.
 Learn about my competitive swimming journey:  
 [View Swimming Portfolio](swimming/)
 
-## Curiosity & Humanities
+## Other Hobbies
 
 See the hobbies I explore:  
 [View Curiosity Portfolio](curiosity/)
