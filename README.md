@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://chezzycheddars.github.io/yixuan-sun-portfolio/" style="text-decoration: none !important; border: none !important;">
     <h1 style="color: #007bff !important; border-bottom: none !important; margin-bottom: 0; font-family: sans-serif; letter-spacing: 2px;">
-      YIXUAN SUN | OFFICIAL PORTFOLIO
+      YIXUAN SUN
     </h1>
   </a>
 </div>
@@ -9,7 +9,7 @@
 
 <p align="center" style="opacity: 0.7; font-size: 0.8em; line-height: 1.4;">
   <i>
-    <b>Heritage & Identity Note:</b> This GitHub account ( <a href="https://github.com/chezzycheddars" style="color: #444; text-decoration: underline;"><b>chezzycheddars</b></a> ) was established in December 2023 when I was 11 years old. While the username reflects my childhood curiosity at that time, the projects showcased here represent my academic growth leading into the 2026 admissions season.
+    <b></b>
   </i>
 </p>
 
